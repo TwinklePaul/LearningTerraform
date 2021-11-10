@@ -1,0 +1,8 @@
+*.config
+.terraform/
+.terraform.*
+terraform.*
+*.terraform
+*.backup
+*.terraform.*
+*.terraform/
